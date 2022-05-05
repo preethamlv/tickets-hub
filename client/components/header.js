@@ -22,7 +22,7 @@ const Header = ({ currentUser }) => {
     return(
         <nav className="navbar navbar-light bg-light">
             <Link href="/">
-                <a className="navbar-brand">TicketsHub</a>
+                <a className="navbar-brand">TicketingHub</a>
             </Link>
             <div className="d-flex justify-content-end">
                 <ul className="nav d-flex align-items-center">
